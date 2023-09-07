@@ -1,11 +1,11 @@
 # 🖨️ About 🖨️
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qmdlrhdfyd)](https://solved.ac/qmdlrhdfyd/)  
+Hello! I'm Minsu Kim. I major Computer Science & Engineering in CAU.
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qmdlrhdfyd)](https://solved.ac/qmdlrhdfyd/)  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/민수-김-772698259/)
 [![Github](https://img.shields.io/badge/Gihub-181717?style=flat-square&logo=Python&logoColor=white)](https://github.com/kimlohen)
-
 
 # 🛠️ Technology Stack 🛠️
 
@@ -23,7 +23,7 @@
 [![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white)]()
 [![Pytorch](https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white)]()
 
-... Studing [![AWS](https://img.shields.io/badge/AmazonAWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)]()
+Nowadays I study for [![AWS](https://img.shields.io/badge/AmazonAWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)]()
 
 # 🪛 Tools 🪛
  
