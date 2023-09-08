@@ -38,3 +38,6 @@ Nowadays I study for [![AWS](https://img.shields.io/badge/AmazonAWS-FF9900?style
 | 정보처리기사 | 한국산업인력공단 | 22.09 |
 | AICE Associate | KT | 23.04 |
 | CKAD | Linux Foundation | 23.09 |
+
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="dc7bfcd2-54fe-4fa1-a98f-97cb9b41a3fd" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
