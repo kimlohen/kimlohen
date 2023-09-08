@@ -32,8 +32,8 @@ Nowadays I study for [![AWS](https://img.shields.io/badge/AmazonAWS-FF9900?style
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)]() 
 
 
-# 📄 자격증 📄
-| 이름 | 주관 | 취득일 |
+# 📄 Certification 📄
+| Name | Organization | Date |
 | --- | --- | ---- |
 | 정보처리기사 | 한국산업인력공단 | 22.09 |
 | AICE Associate | KT | 23.04 |
