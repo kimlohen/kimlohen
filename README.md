@@ -23,7 +23,7 @@ Hello! I'm Minsu Kim. I major Computer Science & Engineering in CAU.
 [![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white)]()
 [![Pytorch](https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white)]()
 
-Nowadays I study for [![AWS](https://img.shields.io/badge/AmazonAWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)]()
+[![AWS](https://img.shields.io/badge/AmazonAWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)]()
 
 # 🪛 Tools 🪛
  
@@ -38,3 +38,4 @@ Nowadays I study for [![AWS](https://img.shields.io/badge/AmazonAWS-FF9900?style
 | 정보처리기사 | 한국산업인력공단 | 22.09 |
 | AICE Associate | KT | 23.04 |
 | [CKAD](https://www.credly.com/badges/dc7bfcd2-54fe-4fa1-a98f-97cb9b41a3fd/public_url) | Linux Foundation | 23.09 |
+| [AWS SAA](https://www.credly.com/badges/9c6cb2ba-f6d3-4fa6-8bc2-7496b5ec22d1/public_url) | AWS | 23.10 |
