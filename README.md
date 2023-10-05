@@ -2,10 +2,9 @@
 
 Hello! I'm Minsu Kim. I major Computer Science & Engineering in CAU.
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qmdlrhdfyd)](https://solved.ac/qmdlrhdfyd/)  
-[]()
-<a href='https://www.credly.com/badges/dc7bfcd2-54fe-4fa1-a98f-97cb9b41a3fd/public_url'><img src='https://github.com/kimlohen/kimlohen/assets/30362867/ddbae5fe-1358-4ad9-90f4-905cce8c010d' alt=""></a>
-<a href='https://www.credly.com/badges/9c6cb2ba-f6d3-4fa6-8bc2-7496b5ec22d1/public_url'><img src='https://github.com/kimlohen/kimlohen/assets/30362867/aba26899-c94b-4bb5-a6b9-de20df39f42c' alt=""></a>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qmdlrhdfyd)](https://solved.ac/qmdlrhdfyd/)  <br><br>
+[![ckad-certified-kubernetes-application-developer](https://github.com/kimlohen/kimlohen/assets/30362867/ddbae5fe-1358-4ad9-90f4-905cce8c010d)](https://www.credly.com/badges/dc7bfcd2-54fe-4fa1-a98f-97cb9b41a3fd/public_url)
+[![aws-certified-solutions-architect-associate](https://github.com/kimlohen/kimlohen/assets/30362867/aba26899-c94b-4bb5-a6b9-de20df39f42c)](https://www.credly.com/badges/9c6cb2ba-f6d3-4fa6-8bc2-7496b5ec22d1/public_url)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/민수-김-772698259/)
 [![Github](https://img.shields.io/badge/Gihub-181717?style=flat-square&logo=Python&logoColor=white)](https://github.com/kimlohen)
