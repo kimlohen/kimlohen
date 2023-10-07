@@ -28,7 +28,7 @@ Hello! I'm Minsu Kim. I major Computer Science & Engineering in CAU.
 
 [![AWS](https://img.shields.io/badge/AmazonAWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)]()
 
-# 🪛 Tools 🪛
+# 📏 Tools 📏
  
 [![VScode](https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white)]()
 [![Colab](https://img.shields.io/badge/GoogleColab-F9AB00?style=flat-square&logo=GoogleColab&logoColor=white)]()
