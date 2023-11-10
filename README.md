@@ -6,6 +6,8 @@ Hello! I'm Minsu Kim. I major Computer Science & Engineering in CAU.
 <br><br>
 [![ckad-certified-kubernetes-application-developer](https://github.com/kimlohen/kimlohen/assets/30362867/ddbae5fe-1358-4ad9-90f4-905cce8c010d)](https://www.credly.com/badges/dc7bfcd2-54fe-4fa1-a98f-97cb9b41a3fd/public_url)
 [![aws-certified-solutions-architect-associate](https://github.com/kimlohen/kimlohen/assets/30362867/aba26899-c94b-4bb5-a6b9-de20df39f42c)](https://www.credly.com/badges/9c6cb2ba-f6d3-4fa6-8bc2-7496b5ec22d1/public_url)
+[![aws-certified-developer-associate](https://github.com/kimlohen/kimlohen/assets/30362867/a086c4e0-6080-4f8a-917e-6d5684f56ab8)](https://www.credly.com/badges/0bb02a56-ef84-45f1-822e-b1c6b297f361/public_url)
+
 <br><br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/민수-김-772698259/)
 [![Github](https://img.shields.io/badge/Gihub-181717?style=flat-square&logo=Python&logoColor=white)](https://github.com/kimlohen)
@@ -42,4 +44,5 @@ Hello! I'm Minsu Kim. I major Computer Science & Engineering in CAU.
 | AICE Associate | KT | 23.04 |
 | [CKAD](https://www.credly.com/badges/dc7bfcd2-54fe-4fa1-a98f-97cb9b41a3fd/public_url) | Linux Foundation | 23.09 |
 | [AWS SAA](https://www.credly.com/badges/9c6cb2ba-f6d3-4fa6-8bc2-7496b5ec22d1/public_url) | AWS | 23.10 |
+| [AWS DVA](https://www.credly.com/badges/0bb02a56-ef84-45f1-822e-b1c6b297f361/public_url) | AWS | 23.11 |
 
