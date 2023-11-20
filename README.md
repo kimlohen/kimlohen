@@ -7,6 +7,8 @@ Hello! I'm Minsu Kim. I major Computer Science & Engineering in CAU.
 [![ckad-certified-kubernetes-application-developer](https://github.com/kimlohen/kimlohen/assets/30362867/ddbae5fe-1358-4ad9-90f4-905cce8c010d)](https://www.credly.com/badges/dc7bfcd2-54fe-4fa1-a98f-97cb9b41a3fd/public_url)
 [![aws-certified-solutions-architect-associate](https://github.com/kimlohen/kimlohen/assets/30362867/aba26899-c94b-4bb5-a6b9-de20df39f42c)](https://www.credly.com/badges/9c6cb2ba-f6d3-4fa6-8bc2-7496b5ec22d1/public_url)
 [![aws-certified-developer-associate](https://github.com/kimlohen/kimlohen/assets/30362867/f0f8c6ba-4832-4020-b068-b1169e1eb780)](https://www.credly.com/badges/0bb02a56-ef84-45f1-822e-b1c6b297f361/public_url)
+<br><br>
+![AICE Associate](https://github.com/kimlohen/kimlohen/assets/30362867/9bafc002-89d4-4891-8199-22be9f5c7a4a)
 
 <br><br>
 
@@ -42,7 +44,7 @@ Hello! I'm Minsu Kim. I major Computer Science & Engineering in CAU.
 | Name | Organization | Date |
 | --- | --- | ---- |
 | 정보처리기사 | 한국산업인력공단 | 22.09 |
-| AICE Associate | KT | 23.04 |
+| [AICE Associate](https://www.openbadge-global.com/api/v1.0/openBadge/v2/Wallet/Public/GetAssertionShare/M2ZHbFhNdThuQTFhVk1OL29IVHpRZz09) | KT | 23.04 |
 | [CKAD](https://www.credly.com/badges/dc7bfcd2-54fe-4fa1-a98f-97cb9b41a3fd/public_url) | Linux Foundation | 23.09 |
 | [AWS SAA](https://www.credly.com/badges/9c6cb2ba-f6d3-4fa6-8bc2-7496b5ec22d1/public_url) | AWS | 23.10 |
 | [AWS DVA](https://www.credly.com/badges/0bb02a56-ef84-45f1-822e-b1c6b297f361/public_url) | AWS | 23.11 |
