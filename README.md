@@ -9,6 +9,8 @@ Hello! I'm Minsu Kim. I major Computer Science & Engineering in CAU.
 [![aws-certified-developer-associate](https://github.com/kimlohen/kimlohen/assets/30362867/f0f8c6ba-4832-4020-b068-b1169e1eb780)](https://www.credly.com/badges/0bb02a56-ef84-45f1-822e-b1c6b297f361/public_url)
 <br><br>
 <img src="https://github.com/kimlohen/kimlohen/assets/30362867/9bafc002-89d4-4891-8199-22be9f5c7a4a" width="180" height="180"/>
+<img src="https://github.com/kimlohen/kimlohen/assets/30362867/b83563d3-18c0-4acc-920d-fe26e4b3d4c4" width="180" height="180"/>
+<img src="https://github.com/kimlohen/kimlohen/assets/30362867/f74ec757-bb9e-4a64-8e21-a4ed7c213023" width="180" height="180"/>
 
 <br><br>
 
