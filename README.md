@@ -15,8 +15,10 @@ Hello! I'm Minsu Kim. I major Computer Science & Engineering in CAU.
 <br><br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/민수-김-772698259/)
-[![Github](https://img.shields.io/badge/Gihub-181717?style=flat-square&logo=Python&logoColor=white)](https://github.com/kimlohen)
+[![Github](https://img.shields.io/badge/Gihub-181717?style=flat-square&logo=Github&logoColor=white)](https://github.com/kimlohen)
 
+[![Openbadge](https://img.shields.io/badge/OpenBedge-181717?style=flat-square&logo=openbadges&logoColor=#073B5A)](https://www.openbadge-global.com/ns/portal/openbadge/public/assertions/user/bEJKNzBZQVVRY0tIVWFvcm54ZDBKQT09)
+[![Credly](https://img.shields.io/badge/Credly-181717?style=flat-square&logo=credly&logoColor=#FF6B00)](https://www.credly.com/users/username.4a2009bb)
 # 🛠️ Technology Stack 🛠️
 
 [![Python](https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white)]()
