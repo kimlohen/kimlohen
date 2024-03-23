@@ -2,6 +2,8 @@
 
 Hello! I'm Minsu Kim. I major Computer Science & Engineering in CAU.
 
+And now I'm working as a cloud system engineer at Megazone Cloud.
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qmdlrhdfyd)](https://solved.ac/qmdlrhdfyd/)
 <br><br>
 [![ckad-certified-kubernetes-application-developer](https://github.com/kimlohen/kimlohen/assets/30362867/ddbae5fe-1358-4ad9-90f4-905cce8c010d)](https://www.credly.com/badges/dc7bfcd2-54fe-4fa1-a98f-97cb9b41a3fd/public_url)
