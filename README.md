@@ -15,6 +15,7 @@ And now I'm working as a cloud system engineer at Megazone Cloud.
 [![aws-certified-sysops-administrator-associate](https://github.com/user-attachments/assets/d2f96941-1da5-4fba-8b5b-86ab5002de50)](https://www.credly.com/badges/b2f39195-55e7-4f5b-9b68-5bfa20e551b7/public_url)
 [![aws-certified-cloud-practitioner](https://github.com/user-attachments/assets/29b7b02f-0b40-4ad9-a333-f237057ddaab)](https://www.credly.com/badges/7e340345-6d4a-4999-b6ab-caace838cdf7/public_url)
 
+[![aws-certified-ai-practitioner](https://github.com/user-attachments/assets/80b394c7-51a5-45ec-afa2-7deefb978c0e)](https://www.credly.com/badges/7e340345-6d4a-4999-b6ab-caace838cdf7/public_url)
 
 <br><br>
 <img src="https://github.com/kimlohen/kimlohen/assets/30362867/9bafc002-89d4-4891-8199-22be9f5c7a4a" width="180" height="180"/>
@@ -65,4 +66,5 @@ And now I'm working as a cloud system engineer at Megazone Cloud.
 | [AWS SAP](https://www.credly.com/badges/b55af9c1-5e6d-454a-a789-a4c465d7c868/public_url) | AWS | 24.07 |
 | [AWS CLF](https://www.credly.com/badges/7e340345-6d4a-4999-b6ab-caace838cdf7/public_url) | AWS | 24.08 |
 | [AWS SOA](https://www.credly.com/badges/b2f39195-55e7-4f5b-9b68-5bfa20e551b7/public_url) | AWS | 24.08 |
+| [AWS AIF](https://www.credly.com/badges/7e340345-6d4a-4999-b6ab-caace838cdf7/public_url) | AWS | 24.09 |
 
