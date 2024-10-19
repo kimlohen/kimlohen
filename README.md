@@ -10,6 +10,7 @@ And now I'm working as a cloud system engineer at Megazone Cloud.
 [![ckad-certified-kubernetes-application-developer](https://github.com/kimlohen/kimlohen/assets/30362867/ddbae5fe-1358-4ad9-90f4-905cce8c010d)](https://www.credly.com/badges/dc7bfcd2-54fe-4fa1-a98f-97cb9b41a3fd/public_url)
 <br><br>
 [![aws-certified-solutions-architect-professional](https://github.com/kimlohen/kimlohen/assets/30362867/c380e899-2df6-42b6-a49a-588ac57112d0)](https://www.credly.com/badges/b55af9c1-5e6d-454a-a789-a4c465d7c868/public_url)
+[![aws-certified-devops-engineer-professional](https://github.com/user-attachments/assets/6952d5b3-3744-46af-b977-a87b389e8cd4)](https://www.credly.com/badges/92d1ef31-1406-4a49-abb4-64ef9132ac25/public_url)
 [![aws-certified-solutions-architect-associate](https://github.com/kimlohen/kimlohen/assets/30362867/aba26899-c94b-4bb5-a6b9-de20df39f42c)](https://www.credly.com/badges/9c6cb2ba-f6d3-4fa6-8bc2-7496b5ec22d1/public_url)
 [![aws-certified-developer-associate](https://github.com/kimlohen/kimlohen/assets/30362867/f0f8c6ba-4832-4020-b068-b1169e1eb780)](https://www.credly.com/badges/0bb02a56-ef84-45f1-822e-b1c6b297f361/public_url)
 [![aws-certified-sysops-administrator-associate](https://github.com/user-attachments/assets/d2f96941-1da5-4fba-8b5b-86ab5002de50)](https://www.credly.com/badges/b2f39195-55e7-4f5b-9b68-5bfa20e551b7/public_url)
@@ -71,3 +72,4 @@ And now I'm working as a cloud system engineer at Megazone Cloud.
 | [AWS AIF](https://www.credly.com/badges/7e340345-6d4a-4999-b6ab-caace838cdf7/public_url) | AWS | 24.09 |
 | [AWS DEA](https://www.credly.com/badges/d4fc4808-fb4d-41e3-a579-9c4c9fa3b71b/public_url) | AWS | 24.09 |
 | [AWS MLA](https://www.credly.com/badges/9c50b7e8-b3a7-40ec-b821-78f498d76033/public_url) | AWS | 24.09 |
+| [AWS DOP](https://www.credly.com/badges/92d1ef31-1406-4a49-abb4-64ef9132ac25/public_url) | AWS | 24.10 |
