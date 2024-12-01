@@ -16,6 +16,7 @@ And now I'm working as a cloud system engineer at Megazone Cloud.
 [![aws-certified-solutions-architect-associate](https://github.com/kimlohen/kimlohen/assets/30362867/aba26899-c94b-4bb5-a6b9-de20df39f42c)](https://www.credly.com/badges/9c6cb2ba-f6d3-4fa6-8bc2-7496b5ec22d1/public_url)
 [![aws-certified-developer-associate](https://github.com/kimlohen/kimlohen/assets/30362867/f0f8c6ba-4832-4020-b068-b1169e1eb780)](https://www.credly.com/badges/0bb02a56-ef84-45f1-822e-b1c6b297f361/public_url)
 [![aws-certified-sysops-administrator-associate](https://github.com/user-attachments/assets/d2f96941-1da5-4fba-8b5b-86ab5002de50)](https://www.credly.com/badges/b2f39195-55e7-4f5b-9b68-5bfa20e551b7/public_url)
+
 [![aws-certified-data-engineer-associate](https://github.com/user-attachments/assets/e3b60e67-60c8-4d1f-9ba1-273fcbbb875e)](https://www.credly.com/badges/d4fc4808-fb4d-41e3-a579-9c4c9fa3b71b/public_url)
 [![aws-certified-machine-learning-engineer-associate](https://github.com/user-attachments/assets/2adfdec3-a170-40bf-8c0e-3404218cbc86)](https://www.credly.com/badges/9c50b7e8-b3a7-40ec-b821-78f498d76033/public_url)
 
