@@ -82,4 +82,5 @@ And now I'm working as a cloud system engineer at Megazone Cloud.
 | [AWS SCS](https://www.credly.com/badges/d379e215-e3d7-49d7-89f4-9be392c0c7e7/public_url) | AWS | 24.11 |
 | [AWS MLS](https://www.credly.com/badges/83a9b486-e079-4934-b4db-aa2743af6df5/public_url) | AWS | 25.01 |
 | [AWS ANS](https://www.credly.com/badges/7924651e-306d-49b2-b765-58f44d129f90/public_url) | AWS | 25.01 |
+| [AWS AIP]() | AWS | 26.04 |
 
